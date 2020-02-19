@@ -1,0 +1,12 @@
+$ cat .gitignore
+.DS_Store
+.idea/workspace.xml
+out/production/KWIC_DIRECTORIO/Master.class
+out/production/KWIC_DIRECTORIO/input.txt
+out/production/KWIC_DIRECTORIO/output.txt
+../KWIC_PDF/src/Master.java
+../KWIC_SA/.idea/workspace.xml
+../KWIC_SA/out/production/KWIC_SA/Master.class
+../KWIC_SA/out/production/KWIC_SA/output.txt
+../KWIC_SA/src/Master.java
+../KWIC_SA/src/output.txt
